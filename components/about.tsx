@@ -17,7 +17,7 @@ async function About({ params: { lang: lng } }: Language) {
             id="about"
             className="flex flex-col lg:flex-row bg-mlt-blue overflow-clip relative w-full rounded-[2.65rem] p-4 lg:p-12"
           >
-            <div className="lg:w-4/5">
+            <div className="lg:w-[200rem] h-full">
               <Image
                 src={aboutImages}
                 alt="a PNG image with four sections show various modes of cargo transportation"

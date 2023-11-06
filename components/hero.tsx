@@ -26,7 +26,7 @@ async function Hero({ params: { lang: lng } }: Language) {
             {t('intro')}
           </p>
         </div>
-        <div className="self-center">
+        <div className="self-center lg:self-start">
           <a href="mailto:info@mlogtrade.com">
             <button className="uppercase font-semibold text-white border-2 bg-mlt-blue rounded-full px-12 py-5">
               {t('getInTouch')}

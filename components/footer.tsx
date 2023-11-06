@@ -53,7 +53,9 @@ async function Footer({ params: { lang: lng } }: Language) {
         </a>
         <div className="flex flex-col lg:flex-row gap-4 lg:gap-0 text-center lg:text-left justify-between text-sm">
           <p>{t('footer.copyright')}</p>
-          <a href="https://hillitilsimat.com">{t('footer.developedBy')}</a>
+          <a href="https://hillitilsimat.com" className="text-xs">
+            {t('footer.developedBy')}
+          </a>
         </div>
       </div>
     </div>
