@@ -1,0 +1,51 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "title1": "Multimodal",
+  "title2": "Logistics",
+  "title3": "Trade",
+  "intro": "— is a growing company that delivers a comprehensive range of transport services worldwide.",
+  "getInTouch": "Get in touch",
+  "kpi1": "Years in market",
+  "kpi2": "Partners worldwide",
+  "kpi3": "Types of services",
+  "aboutTitle1": "Aspiring to be",
+  "aboutTitle2": "#1 in Logistics",
+  "aboutTitle3": "Worldwide",
+  "aboutText": "LLC \"Multimodal Logistics Trade\" is a growing company that offers a full range of transport services worldwide. We can provide you with the best transportation option for any of your needs. Our team is composed of highly qualified specialists who are flexible, competent and confident in solving any challenges. We will ensure that our service is as convenient and efficient as possible. We are always available to assist you.",
+  "servicesTitle1": "Everything",
+  "servicesTitle2": "you need — we have!",
+  "services": [
+    "Multimodal transportation",
+    "Container shipments",
+    "Road freight",
+    "Rail freight",
+    "Air freight",
+    "Storage & Warehousing",
+    "Customs broker services",
+    "Cargo consolidation",
+    "Terminal handling"
+  ],
+  "departmentsTitle1": "Our",
+  "departmentsTitle2": "Departments",
+  "departments": {
+    "road": "Road freight",
+    "rail": "Rail freight",
+    "air": "Air freight",
+    "ocean": "Ocean freight"
+  },
+  "footer": {
+    "address": "Russian Federation, 129343, Moscow, Serebryakov passage, building 6, floor 4, room 19a",
+    "tel1": "+7 (980) 470 00 98",
+    "tel2": "+7 (925) 516 44 75",
+    "email": "info@mlogtrade.com",
+    "cta1": "Get",
+    "cta2": "in touch!",
+    "copyright": "© 2023. LLC \"Multimodal Logistics Trade\" — All rights reserved.",
+    "developedBy": "Deeveloped by Hilli Tilsimat"
+  }
+}
